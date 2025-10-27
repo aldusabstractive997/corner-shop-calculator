@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Corner Shop Calculator/*
+!/Corner Shop Calculator/task/
+/Corner Shop Calculator/task/*
+!/Corner Shop Calculator/task/calculator.py
