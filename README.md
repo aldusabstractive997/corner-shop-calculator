@@ -9,7 +9,7 @@ This repository contains a minimal script that demonstrates:
 - Calculating and displaying net income
 
 ## Files
-- calculator.py (suggested name) — main script containing the code shown below.
+- calculator.py — main script containing the code shown below.
 
 ## Requirements
 - Python 3.x
